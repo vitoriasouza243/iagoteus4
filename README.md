@@ -57,6 +57,6 @@
 
 #
 
- ![Snake animation](https://github.com/iagoteus4/iagoteus4/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/iagoteus4/iagoteus4/blob/main/github-contribution-grid-snake.svg)
 
 
