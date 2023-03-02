@@ -1,4 +1,3 @@
-# Hey! 👋 I'm a Frontend Developer. Nowadays I'm studying Frontend Development with React Js and acting as a Freelancer! 
 
 <div align="center">
 
